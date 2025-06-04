@@ -1,8 +1,8 @@
 <?php
 
-namespace Maskinsa\ImageUploader\Traits;
+namespace Mashkinsa\ImageUploader\Traits;
 
-use Maskinsa\ImageUploader\ImageUploader;
+use Mashkinsa\ImageUploader\ImageUploader;
 
 trait HasImageUploads
 {

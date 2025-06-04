@@ -1,8 +1,8 @@
 <?php
 
-namespace Maskinsa\ImageUploader;
+namespace Mashkinsa\ImageUploader;
 
-use Maskinsa\ImageUploader\Exceptions\ImageUploadException;
+use Mashkinsa\ImageUploader\Exceptions\ImageUploadException;
 
 class ImageUploader
 {
