@@ -1,0 +1,19 @@
+{
+    "name": "mashkinsa/image-uploader",
+    "description": "Universal image upload handler with validation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "mashkinsa",
+        "email": "mariasmolovik1@gmail.com"
+    }],
+    "require": {
+        "php": "^8.0",
+        "ext-fileinfo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mashkinsa\\ImageUploader\\": "src/"
+        }
+    }
+}
